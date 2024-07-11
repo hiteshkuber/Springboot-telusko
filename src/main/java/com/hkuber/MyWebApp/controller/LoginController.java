@@ -1,4 +1,4 @@
-package com.hkuber.MyWebApp;
+package com.hkuber.MyWebApp.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
